@@ -1,6 +1,6 @@
 const nums = document.querySelectorAll(".num");
 const btn = document.querySelector(".btn");
-
+// Cards
 const ratingCard = document.querySelector(".rating-card");
 const thankCard = document.querySelector(".thank-card");
 
